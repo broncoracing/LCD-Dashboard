@@ -21,7 +21,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "1c4bdecc-e185-4b7e-8fd7-d631b7ec6c08")
-		(property "Sheetname" "steering wheel inputs"
+		(property "Sheetname" "Steering Wheel Inputs"
 			(at 128.27 147.8784 0)
 			(effects
 				(font
@@ -63,7 +63,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "20a1512c-f6d2-4c78-8371-5b96678d4776")
-		(property "Sheetname" "power"
+		(property "Sheetname" "Power"
 			(at 55.88 100.8884 0)
 			(effects
 				(font
@@ -105,7 +105,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "40a95f7d-1f9c-4cb1-baba-eb8fee9c7ae5")
-		(property "Sheetname" "can"
+		(property "Sheetname" "CAN"
 			(at 58.42 147.8784 0)
 			(effects
 				(font
@@ -147,7 +147,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "771c1a0a-a41c-475d-8609-f2dfd8937c6a")
-		(property "Sheetname" "micrcontroller"
+		(property "Sheetname" "Micrcontroller"
 			(at 116.84 103.4284 0)
 			(effects
 				(font
@@ -189,7 +189,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "ef6fcf03-d2d8-4e35-9a2a-a32154411fea")
-		(property "Sheetname" "lcd interface"
+		(property "Sheetname" "LCD Interface"
 			(at 181.61 103.4284 0)
 			(effects
 				(font

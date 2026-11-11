@@ -415,7 +415,7 @@
     ],
     [
       "20a1512c-f6d2-4c78-8371-5b96678d4776",
-      "power"
+      "Power"
     ],
     [
       "6cf37866-f85c-4e09-abca-a1f258c3f558",
@@ -427,19 +427,19 @@
     ],
     [
       "771c1a0a-a41c-475d-8609-f2dfd8937c6a",
-      "micrcontroller"
+      "Micrcontroller"
     ],
     [
       "ef6fcf03-d2d8-4e35-9a2a-a32154411fea",
-      "lcd interface"
+      "LCD Interface"
     ],
     [
       "40a95f7d-1f9c-4cb1-baba-eb8fee9c7ae5",
-      "can"
+      "CAN"
     ],
     [
       "1c4bdecc-e185-4b7e-8fd7-d631b7ec6c08",
-      "steering wheel inputs"
+      "Steering Wheel Inputs"
     ]
   ],
   "text_variables": {}
